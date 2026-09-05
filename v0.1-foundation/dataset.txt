@@ -1,0 +1,8 @@
+I am Sunny.
+I love Python.
+Python is powerful.
+I am learning artificial intelligence.
+Artificial intelligence is fascinating.
+Python is easy to learn.
+I love machine learning.
+Machine learning is powerful.
