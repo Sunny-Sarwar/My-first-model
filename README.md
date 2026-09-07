@@ -1,7 +1,7 @@
 # My-first-mode
 ProximaGPT v0.1 — Foundation Complete
 
-Status: COMPLETE ✅
+Status: COMPLETE ~
 
 Implemented:
 - Tokenizer
