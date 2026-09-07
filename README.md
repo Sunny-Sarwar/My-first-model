@@ -1,6 +1,5 @@
-# My-first-model
-
-SunnyGPT v0.1 — Foundation Complete
+# My-first-mode
+ProximaGPT v0.1 — Foundation Complete
 
 Status: COMPLETE ✅
 
@@ -22,5 +21,5 @@ Current limitation:
 This is a tiny educational language model, not yet a Transformer/GPT architecture.
 
 Next milestone:
-SunnyGPT v0.2 — Backpropagation
+ProximaGPT v0.2 — Backpropagation
 ![image alt](https://github.com/sunnysarwar671-boop/learning_journey/blob/aace831ff0e8ea9ac59e2582f0319ca2559fba44/file_00000000053c81fabdfe6dbc3636db8f.png)
