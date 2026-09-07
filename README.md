@@ -87,33 +87,7 @@ This is a very small experimental model, so its predictions are limited to the p
 
 ---
 
-🚀 Roadmap
-
-v0.1  Foundation        ✅
-v0.2  Backpropagation   🔜
-v0.3  Better Training   🔜
-v0.4  Attention         🔜
-v0.5  Transformer       🔜
-v1.0  Mini-GPT          🔜
-
-The long-term goal is to build a small Transformer-based Mini-GPT from scratch and learn the architecture by implementing each component personally.
-
----
-
-📖 Why ProximaGPT?
-
-This project is not about building the biggest model.
-
-It's about understanding how the model works.
-
-«Build it. Break it. Understand it. Improve it.»
-
----
-
-👨‍💻 Project Status
+🚀Project Status
 
 v0.1 Foundation — Complete ✅
-
-
-
 ![image alt](https://github.com/sunnysarwar671-boop/learning_journey/blob/aace831ff0e8ea9ac59e2582f0319ca2559fba44/file_00000000053c81fabdfe6dbc3636db8f.png)
